@@ -1,0 +1,7 @@
+{
+  "name": "CYBERQUEST",
+  "description": "A premium gamified cybersecurity training platform where users learn to detect and defend against real-world scams through interactive missions and a cyberpunk-themed learning path.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
