@@ -26,6 +26,3 @@ Users can sign up / login, learn cybersecurity concepts through real-world exerc
 - **UI:** Tailwind CSS + custom cyber theme
 
 ---
-
-## 📂 Project Structure
-
